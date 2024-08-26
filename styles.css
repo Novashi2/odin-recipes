@@ -1,0 +1,21 @@
+.title {
+    font-size:75px;
+}
+body {
+    background-color:rgba(42, 46, 50);
+}
+.centered {
+    text-align: center;
+}
+
+a:link {
+    color:brown;
+}
+
+* {
+    color:white;
+}
+
+* {
+    font-family:Arial, Helvetica, sans-serif;
+}
